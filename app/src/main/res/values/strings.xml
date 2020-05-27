@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Koronavirüs Takip</string>
+    <string name="title_home">Anasayfa</string>
+    <string name="title_dashboard">Harita</string>
+    <string name="title_notifications">Haberler</string>
+    <string name="text1">"®2020 Ali Akgün-All Right Reserved"</string>
+
+</resources>
