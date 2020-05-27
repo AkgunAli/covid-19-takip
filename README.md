@@ -1,4 +1,8 @@
-# covid-19-takip
+# covid-19-takip Uygulaması
 covid-19-takip
-![Test Image 2](“1.png”)
+![Image1](“1.jpg”)
+![Image2](“2.jpg”)
+![Image3](“3.jpg”)
+![Image4](“4.jpg”)
+![Image5](“5.jpg”)
 
