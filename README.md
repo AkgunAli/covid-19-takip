@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="70" height="100" src="1.jpg">
+  <img width="350" height="500" src="1.jpg">
 </p>
 ![Test Image 1](1.jpg )
 ![Test Image 2](2.jpg)
