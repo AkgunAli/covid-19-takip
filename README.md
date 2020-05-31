@@ -6,5 +6,5 @@ covid-19-takip
 ![Test Image 4](4.jpg)
 ![Test Image 5](5.jpg)
 <p align="center">
-  <img width="460" height="300" src="1.jpg">
+  <img width="660" height="600" src="1.jpg">
 </p>
