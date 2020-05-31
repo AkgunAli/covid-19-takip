@@ -1,14 +1,18 @@
-# covid-19-takip Uygulaması
 <p align="center">
- <b> covid-19-takip </b>
+ <b> # Covid-19-takip Uygulaması
+ </b>
 
 </p>
 
 <p align="center">
   <img width="350" height="500" src="1.jpg">
 </p>
-![Test Image 1](1.jpg )
-![Test Image 2](2.jpg)
-![Test Image 3](3.jpg)
-![Test Image 4](4.jpg)
-![Test Image 5](5.jpg)
+<p align="center">
+  <img width="350" height="500" src="2.jpg">
+</p><p align="center">
+  <img width="350" height="500" src="3.jpg">
+</p><p align="center">
+  <img width="350" height="500" src="4.jpg">
+</p><p align="center">
+  <img width="350" height="500" src="5.jpg">
+</p>
