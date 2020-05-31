@@ -1,9 +1,11 @@
 # covid-19-takip Uygulaması
-covid-19-takip
+<p align="center">
+ <b> covid-19-takip </b>
 
+</p>
 
 <p align="center">
-  <img width="700" height="1000" src="1.jpg">
+  <img width="70" height="100" src="1.jpg">
 </p>
 ![Test Image 1](1.jpg )
 ![Test Image 2](2.jpg)
